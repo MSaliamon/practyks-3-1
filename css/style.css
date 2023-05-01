@@ -33,4 +33,5 @@ body{
     background-color: #f17a12;
     width:30%;
     height: 20px;
+    border-radius: 2px 2px 0 0;
 }
