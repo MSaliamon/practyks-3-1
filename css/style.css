@@ -1,5 +1,5 @@
 body{
-    background-color: #353b38;
+    background-color: #06fc81;
 }
 .boxes {
     display:flex;
@@ -30,7 +30,7 @@ body{
     display: flex;
     margin-left:35%;
     margin-top:-10px;
-    background-color: #3f2209;
+    background-color: #f17a12;
     width:30%;
     height: 20px;
 }
